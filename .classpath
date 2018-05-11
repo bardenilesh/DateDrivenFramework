@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="POI/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="POI/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="POI/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="POI/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="POI/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="POI/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xsat802/Nilesh_Workspace/SeleniumJava/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

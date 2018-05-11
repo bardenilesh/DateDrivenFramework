@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59033" started-at="2018-05-10T10:56:18Z" finished-at="2018-05-10T10:57:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59033" started-at="2018-05-10T10:56:18Z" finished-at="2018-05-10T10:57:17Z">
+      <class name="test.ReadWriteExcel">
+        <test-method status="PASS" signature="TestSetup()[pri:0, instance:test.ReadWriteExcel@71e7a66b]" name="TestSetup" is-config="true" duration-ms="15700" started-at="2018-05-10T05:56:18Z" finished-at="2018-05-10T05:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSetup -->
+        <test-method status="PASS" signature="ReadData()[pri:0, instance:test.ReadWriteExcel@71e7a66b]" name="ReadData" duration-ms="42656" started-at="2018-05-10T05:56:34Z" finished-at="2018-05-10T05:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.ReadWriteExcel@71e7a66b]" name="tearDown" is-config="true" duration-ms="672" started-at="2018-05-10T05:57:16Z" finished-at="2018-05-10T05:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.ReadWriteExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
